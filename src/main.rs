@@ -1,3 +1,5 @@
+// See https://github.com/umuro/wasm-counter/blob/main/README.md for setup instructions
+
 use yew::prelude::*;
 
 #[function_component(App)]
